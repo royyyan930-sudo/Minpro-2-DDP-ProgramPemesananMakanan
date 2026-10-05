@@ -58,6 +58,13 @@ Login Sebagai admin
 
 <img width="233" height="219" alt="image" src="https://github.com/user-attachments/assets/ca02e4e4-d64f-4a8b-915d-2d65112e6fe2" />
 
+Menu 1 Menampilkan Daftar Menu + Penceet enter Untuk Kembali
+
+<img width="259" height="254" alt="image" src="https://github.com/user-attachments/assets/74f82571-c5c1-4951-ae50-54efb916ae53" />
+
+menu 2 Untuk Menambahkan Daftar menunyabxbx 
+
+
 
 
 
