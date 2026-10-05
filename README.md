@@ -116,7 +116,28 @@ Menu 4 Selesai Dan Bayar +menampilkan semua pesanan yang sudah dipesan + penggun
 
 Penjelasan: jika saya menginput huruf di situ, maka akan ada pringatan "harus berupa angka" dan terjadi pengulangan bukan crash/error.
 
+
 ## 3.PENJELASAN FLOWCHART
+
+#### A.LOGIN
+
+<img width="338" height="243" alt="image" src="https://github.com/user-attachments/assets/2065358a-7bf5-49f4-bf4b-1f4393ca6e67" />
+
+Penjelasan: input username dan password, menggunakan decision pertama untuk mengecek apakah usn dan pw benar, lalu lanjut pengecekan role bisa nasuk ke admnin atau users, lalu jika pw dan username salah maka silahkan tekan enter untuk mengulangi
+
+## 1. MENU ADMIN
+
+<img width="266" height="277" alt="image" src="https://github.com/user-attachments/assets/c3449b98-708b-447e-9a75-37e7482ad17e" />\
+
+Penjelas sesuai dengan program, input 1 = Melihat daftar menu, input 2 = Menambah menu, input 3 = ubah Menu, input 4 = hapus Menu, untuk pilihan 1-4 mereka akan kembali lagi ke menu admin ketik enter untuk melanjutkan input pilihan lagi. Namun jika input 5 maka langsung lanjut ke input "kembali ke halaman login lagi?" y/n.
+
+## 2.MENU USERS
+
+<img width="438" height="238" alt="image" src="https://github.com/user-attachments/assets/5e1ac89d-9fbf-4b3e-8d68-bbd785834020" />
+
+Penjelasan Sesuai dengan Program, input 1 + Menambah Pesanan, input 2 = Mengubah Pesanan, input 3 = Menghapus Pesanan, input 4 =  Selesai dan Bayar, untuk pilihan 1-3 mereka akan kembali ke menu users ketik enter untuk melanjutkan input pilihan lagi, namun jika 4 maka dikasih decision yang dimana "apakah member ya/tidak" jika maka mendapatkan diskon 10% jika tidak langsung lanjut input "kembali ke halaman login lagi?" y/n.
+
+
 
 
 
