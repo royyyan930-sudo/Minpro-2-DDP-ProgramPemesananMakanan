@@ -18,3 +18,8 @@ Di Program Saya Sebelum nya Saya membuat Program Pemesanan online, Dan Sekarang 
 
 Penjelelasan: Disini Saya Menggunakan 3 Library Yaitu PrettyTable,Pwinput, dan OS. Prettytable untuk bikin table di pesanan biar keliatan rapi outputnya, OS Untuk Membersihkan Layar Terminal, dan Pwinput Untuk Memasukkan Password tidak Keliatan. Lalu ada 2 dictionary ysng pertama users dan yang kedua Daftar_makanan
 
+<img width="606" height="315" alt="Screenshot 2026-10-05 204109" src="https://github.com/user-attachments/assets/893fe397-1826-4931-84d5-c7ddfa2aa4fa" />
+
+Function yang pertama Yaitu bersihkan_layar yang dimana untuk membersihkan Tamoilan teks di terminal agar Terlihat Tetap rapi, Lalu Function Yang kedua Tampilkan_Daftar_makanan Yang dimana isinya ada Prettytable agar menjadi tabel terlihat Rapi dan juga ada alignment yang dimana mengatur teks jadisebelah kiri/kanan, lalu ada for key stv variable perulangan yang digunakan untuk mengakses dictionary
+
+
