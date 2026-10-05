@@ -22,4 +22,16 @@ Penjelelasan: Disini Saya Menggunakan 3 Library Yaitu PrettyTable,Pwinput, dan O
 
 Function yang pertama Yaitu bersihkan_layar yang dimana untuk membersihkan Tamoilan teks di terminal agar Terlihat Tetap rapi, Lalu Function Yang kedua Tampilkan_Daftar_makanan Yang dimana isinya ada Prettytable agar menjadi tabel terlihat Rapi dan juga ada alignment yang dimana mengatur teks jadisebelah kiri/kanan, lalu ada for key stv variable perulangan yang digunakan untuk mengakses dictionary
 
+<img width="449" height="252" alt="Screenshot 2026-10-05 205945" src="https://github.com/user-attachments/assets/d17fb9ca-8e12-4782-871e-185f5a4508e5" />
+
+Di system utama ini yaitu Login dimana bertugas Melakukan verifikasi pengguna sebelum masuk ke aplikasi, ada bersihkan_layar agar terilaht rapi di terminal tidak behamburan, lalu username input untuk menginput nama pengguna,lalu ada password pwinput yang dimana ketika memasukkan password tidak keliatan dan disamarkan manggunakan * untuk keamanan, dan kalau if username in users buat memeriksa apakah username ada di dalam dictionary users begitu juga dengan password, lalu ada bagian else jika username dan password salah sistem akan menampilkan "Username Dan Password Salah!", lalu tekan enter untuk mengulanginya lagi
+
+<img width="385" height="413" alt="Screenshot 2026-10-05 212153" src="https://github.com/user-attachments/assets/2e83bc12-af31-4dc6-90ac-104939ca16ec" />
+<img width="298" height="164" alt="Screenshot 2026-10-05 212206" src="https://github.com/user-attachments/assets/53b10191-b03e-43cb-bc19-8cf4273ba564" />
+
+Disini saya Menmpilkan menu admin yang 1. Menampilkan Daftar pesanan saja lalu tekan enter untuk kembali ke menu yang ke 2. yang kedua ini menambahkan menu baru yang dimana kita memakai nama, kategori dan harga, new_id itu untuk biarpesanan menjadi nomor lalu diakhirnya ada + 1 biar tidak mengulang jadi 1 lagi dan except error yang dimana kita harus memaukkan berupa angka kalau huruf tidak bisa diakses pengguna dipakaasa untuk memasaukkan angka, lalu yang 3 yaitu mengubah menu, tampilkan daftar pesanan lalu key = intput peesanan yang ingin diubah lalu memasukkan menu baru nama,kategori, dan harga. pesanan berhasil dirubah, 4. menghapus menu pesanan, menampilkan pesanan lalu pilih pesanan yang ingin dihapus menggunakan daftar_makanan.pop untuk menghapus makanan. 5. Logout  keluar dari menu admin
+
+
+
+
 
