@@ -62,7 +62,31 @@ Menu 1 Menampilkan Daftar Menu + Penceet enter Untuk Kembali
 
 <img width="259" height="254" alt="image" src="https://github.com/user-attachments/assets/74f82571-c5c1-4951-ae50-54efb916ae53" />
 
-menu 2 Untuk Menambahkan Daftar menunyabxbx 
+menu 2 Untuk Menambahkan Daftar menunya
+
+<img width="224" height="223" alt="image" src="https://github.com/user-attachments/assets/63d63ee0-47cd-4db7-aa13-fd567004da54" />
+
+ini Tampilan Bahwa Menu baru berhasil ditambahkan 
+
+<img width="308" height="274" alt="image" src="https://github.com/user-attachments/assets/d6810c51-255e-4fb2-b5c3-063080687c64" />
+
+Menu 3 Untuk Mengubah daftar manu + Memasukkankan menu baru
+
+<img width="226" height="223" alt="image" src="https://github.com/user-attachments/assets/d6d7dde8-30f8-4b11-8e7f-3190abce70b1" />
+
+Tampilan Menu Berhasil Berubah
+
+<img width="257" height="230" alt="image" src="https://github.com/user-attachments/assets/59f1a597-37d5-4a06-aa5d-389f609270c7" />
+
+Menu 4 Untuk Menghapus Pesanan
+
+<img width="251" height="210" alt="image" src="https://github.com/user-attachments/assets/971c6266-21e0-4405-bfe8-32cde5709f52" />
+
+Tampilan berhasil Dihapus
+
+<img width="249" height="114" alt="image" src="https://github.com/user-attachments/assets/d9b8c318-ebd4-4162-994e-ddd8dd7225d8" />
+
+Menu 5 Logout, ketik y untuk Login Kembali, Atau n untuk keluar
 
 
 
