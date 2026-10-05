@@ -88,6 +88,37 @@ Tampilan berhasil Dihapus
 
 Menu 5 Logout, ketik y untuk Login Kembali, Atau n untuk keluar
 
+#### B. USERS
+
+<img width="206" height="65" alt="image" src="https://github.com/user-attachments/assets/b2fbaf03-3a7e-457a-8e53-c17192ef5d8e" />
+
+Login Sebagai User
+
+<img width="274" height="216" alt="image" src="https://github.com/user-attachments/assets/fcecfe99-9f8a-45a9-8746-fefda97e44f3" />
+
+Menu 1 Menambahkan Pesanan + data yang dimasukkan oleh admin masih tersimpan jika sebelumnya logout dari role admin.
+
+<img width="301" height="406" alt="image" src="https://github.com/user-attachments/assets/d30f4969-ff27-4af1-81e9-94dd01d47786" />
+
+Menu 2 Mengubah pesanan yang sudah di pesan 
+
+<img width="278" height="281" alt="image" src="https://github.com/user-attachments/assets/01d7d34c-732d-4dab-b437-06da4fa51ad2" />
+
+Menu 3 Menghapus Pesanan yang sudah Pesanan
+
+<img width="258" height="162" alt="image" src="https://github.com/user-attachments/assets/2a381130-0da3-4db1-89d6-71243e5a8601" />
+
+Menu 4 Selesai Dan Bayar +menampilkan semua pesanan yang sudah dipesan + pengguna apakah member atau tidak jika member maka di beri 10% diskon + maka seelesai logout lalu pengguna "jika menginput "y" maka akan masuk ke proses login lagi"
+
+#### C. try except Value Error
+
+<img width="221" height="113" alt="image" src="https://github.com/user-attachments/assets/93606a84-d9a7-4ced-9b28-30d46b3b40de" />
+
+Penjelasan: jika saya menginput huruf di situ, maka akan ada pringatan "harus berupa angka" dan terjadi pengulangan bukan crash/error.
+
+## 3.PENJELASAN FLOWCHART
+
+
 
 
 
